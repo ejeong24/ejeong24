@@ -24,14 +24,6 @@ I'm passionate about leveraging my diverse background to contribute to projects 
 
 Let's connect and explore opportunities to create meaningful and impactful solutions together! ✨
 
-### 🎵 **Music and Creative Pursuits**
-
-![](https://github.com/ejeong24/ejeong24/blob/main/img/INNIT-BRUV-ANIMATED-GIF.gif)
-
-Beyond my professional endeavors, I'm also an independent musician with a dedicated online following and hundreds of thousands of streams. My creative pursuits have taught me the importance of perseverance, collaboration, and leveraging technology to reach and engage with diverse audiences.
-
-You can stream my music [here](https://open.spotify.com/artist/7frvGHRE3ngp4uCC8L61A0?si=V2N01VfKTEGwptO3xELZ0w)!
-
 ### 📊 **GitHub Stats**
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ejeong24&theme=github_dark)
@@ -43,3 +35,11 @@ You can stream my music [here](https://open.spotify.com/artist/7frvGHRE3ngp4uCC8
 ### 🏆 **GitHub Trophies**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ejeong24)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🎵 **Music and Creative Pursuits**
+
+![](https://github.com/ejeong24/ejeong24/blob/main/img/INNIT-BRUV-ANIMATED-GIF.gif)
+
+Beyond my professional endeavors, I'm also an independent musician with a dedicated online following and hundreds of thousands of streams. My creative pursuits have taught me the importance of perseverance, collaboration, and leveraging technology to reach and engage with diverse audiences.
+
+You can stream my music [here](https://open.spotify.com/artist/7frvGHRE3ngp4uCC8L61A0?si=V2N01VfKTEGwptO3xELZ0w)!

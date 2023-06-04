@@ -1,3 +1,5 @@
+https://github.com/ejeong24/ejeong24/blob/main/img/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png
+
 ## 👋 **About Me**
 
 Hi, I'm Eugene! I'm a former Food & Beverage Director and Information Systems Auditor, currently on an exciting journey as a Software Engineering student at Flatiron School.

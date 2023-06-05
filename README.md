@@ -42,4 +42,4 @@ Let's connect and explore opportunities to create meaningful and impactful solut
 
 Beyond my professional endeavors, I'm also an independent musician with a dedicated online following and hundreds of thousands of streams. My creative pursuits have taught me the importance of perseverance, collaboration, and leveraging technology to reach and engage with diverse audiences.
 
-You can stream my music [here](https://linktr.ee/vince.smoke)!
+You can stream my music from Spotify, YouTube, SoundCloud, or Apple Music [here](https://linktr.ee/vince.smoke)!

@@ -2,27 +2,27 @@
 
 ## 👋 **About Me**
 
-Hi, I'm Eugene! I'm a former Food & Beverage Director and Information Systems Auditor, currently on an exciting journey as a Software Engineering student at Flatiron School.
+Hello there! I'm Eugene, a Flatiron School graduate with a background in Food & Beverage management and Information Systems Auditing, now passionately pursuing my career in Software Engineering.
 
-### 💼 **Professional Background**
+### 💼 **Professional Journey**
 
-With over four years of experience as a Food & Beverage Director, I honed my skills in managing operations, driving customer satisfaction, and leading high-performing teams. This role taught me the importance of precision, adaptability, and delivering exceptional experiences.
+My professional journey began in the Food & Beverage industry, where I spent over four years mastering the art of operations management, team leadership, and exceeding customer expectations. This role instilled in me an understanding of precision, adaptability, and the criticality of curating unique experiences.
 
-During my time as an Information Systems Auditor, I developed a keen eye for detail and a passion for ensuring data integrity and security. This experience helped me understand the critical role technology plays in modern businesses.
+As an Information Systems Auditor, my eye for detail was sharpened, and I developed a genuine passion for preserving data integrity and maintaining system security. This exposure underlined the pivotal role technology plays in contemporary business landscapes.
 
-### 🚀 **Transition to Software Engineering**
+### 🚀 **From Auditing to Hospitality to Coding**
 
-Motivated by a desire for continuous growth, I made the decision to pivot my career and pursue computer programming. Currently, as a Software Engineering student, I'm immersing myself in cutting-edge technologies and honing my coding skills. I'm eager to apply my business acumen and analytical mindset to create innovative software solutions.
+Driven by an insatiable thirst for growth, I took a leap of faith and ventured into the fascinating world of coding. At Flatiron School, I was able to dive deep into the latest technologies and refine my programming skills. I am thrilled to leverage my business acumen and analytical mindset to engineer innovative software solutions.
 
-### 🎓 **Education and Skills**
+### 🎓 **Educational Achievements and Skillss**
 
-I graduated with honors from Virginia Tech in 2016, where I earned a degree in Business Information Technology: Decision Support Systems. This educational foundation, combined with my practical experience, equips me with a unique blend of business acumen, technical expertise, and creative problem-solving skills.
+I'm proud to hold an honors degree in Business Information Technology: Decision Support Systems from Virginia Tech, earned in 2016. This strong educational backdrop, coupled with my professional experiences, endows me with a unique combination of business knowledge, technical expertise, and innovative problem-solving skills.
 
-### 🔥 **Passion and Collaboration**
+### 🔥 **Bridging Technology, Business, and User Experience**
 
-I'm passionate about leveraging my diverse background to contribute to projects that intersect technology, business strategy, and user experience. I'm eager to connect with professionals in the software engineering and technology space, collaborate on exciting ventures, and continue pushing the boundaries of what's possible.
+I am zealous about using my varied background to contribute to projects that marry technology, business strategy, and user experience. I am looking forward to connecting with like-minded professionals in the software engineering and technology sphere, collaborating on inspiring initiatives, and relentlessly pushing the limits of the possible.
 
-Let's connect and explore opportunities to create meaningful and impactful solutions together! ✨
+Let's unite and pioneer meaningful and impactful solutions together! ✨
 
 ### 📊 **GitHub Stats**
 
@@ -40,6 +40,6 @@ Let's connect and explore opportunities to create meaningful and impactful solut
 
 ![](https://github.com/ejeong24/ejeong24/blob/main/img/INNIT-BRUV-ANIMATED-GIF.gif)
 
-Beyond my professional endeavors, I'm also an independent musician with a dedicated online following and hundreds of thousands of streams. My creative pursuits have taught me the importance of perseverance, collaboration, and leveraging technology to reach and engage with diverse audiences.
+Aside from my professional pursuits, I am an independent musician who's gained a dedicated online following and amasses hundreds of thousands of streams. My creative endeavors have underlined the significance of persistence, collaboration, and the effective use of technology to connect with a diverse audience.
 
-You can stream my music from Spotify, YouTube, SoundCloud, or Apple Music [here](https://linktr.ee/vince.smoke)!
+You can enjoy my music on Spotify, YouTube, SoundCloud, or Apple Music [here](https://linktr.ee/vince.smoke)!

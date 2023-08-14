@@ -14,7 +14,7 @@ As an Information Systems Auditor, my eye for detail was sharpened, and I develo
 
 Driven by an insatiable thirst for growth, I took a leap of faith and ventured into the fascinating world of coding. At Flatiron School, I was able to dive deep into the latest technologies and refine my programming skills. I am thrilled to leverage my business acumen and analytical mindset to engineer innovative software solutions.
 
-### 🎓 **Educational Achievements and Skillss**
+### 🎓 **Educational Achievements and Skills**
 
 I'm proud to hold an honors degree in Business Information Technology: Decision Support Systems from Virginia Tech, earned in 2016. This strong educational backdrop, coupled with my professional experiences, endows me with a unique combination of business knowledge, technical expertise, and innovative problem-solving skills.
 

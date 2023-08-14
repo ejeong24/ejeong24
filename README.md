@@ -34,7 +34,7 @@ Let's embark on a journey of co-creation and break new ground together! ✨
 
 ### 🏆 **GitHub Trophies**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ejeong24)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ejeong24&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🎵 **Music & Passion**
 
